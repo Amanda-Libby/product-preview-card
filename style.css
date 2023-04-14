@@ -1,25 +1,27 @@
 body {
-    
+    font-size: 14px;
 }
 
-.preview {
-
+.perfume {
+    text-transform: uppercase;
+    color: hsl(228, 12%, 48%);
 }
 
 .itemTitle {
-
+    font: "Montserrat";
 }
 
 .itemDescription {
-
+    color: hsl(228, 12%, 48%);
 }
 
 .prices {
-
+    color: hsl(158, 36%, 37%);
 }
 
 .addToCart  {
-
+    background-color: hsl(158, 36%, 37%);
+    color: white;
 }
 
 .attribution {
